@@ -1,0 +1,42 @@
+{
+  "businessName": "Cha Cha Investment, CC Enterprise",
+  "industry": "Fashion and Creative Design",
+  "tone": "creative and vibrant",
+  "tagline": "Where Style Meets Innovation",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Cha Cha Investment, CC Enterprise – Osogbo's Premier Fashion and Creative Design Hub. We bring your style vision to life with innovative designs, quality fabrics, and expert tailoring. From bespoke outfits to creative fashion solutions, we craft pieces that tell your unique story.",
+      "imagePrompt": "Vibrant Nigerian fashion boutique interior with colorful traditional and contemporary fabrics displayed elegantly, African print textiles hanging artistically, modern tailoring workspace with sewing machines, warm ambient lighting, stylish mannequins wearing custom designs, Osogbo cultural aesthetic, professional photography, bright and inviting atmosphere",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Cha Cha Investment, CC Enterprise is Osogbo's trusted name in fashion and creative design. Located at Adeen former filling station powerline, we've built our reputation on delivering exceptional quality, innovative designs, and personalized service. Whether you're looking for traditional attire, contemporary fashion, or custom creative designs, our skilled team brings years of experience and passion to every project. We understand the importance of looking your best for every occasion, and we're committed to making that happen with style, precision, and creativity.",
+      "imagePrompt": "Professional Nigerian fashion designer at work, carefully measuring fabric on a cutting table, rolls of colorful African print fabrics in background, modern tailoring studio in Osogbo, natural lighting through windows, tools of the trade visible, authentic Nigerian fashion workspace, documentary style photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Tailoring & Bespoke Designs: From concept to creation, we craft outfits that fit perfectly and reflect your personal style. Whether it's traditional Nigerian attire, corporate wear, or special occasion outfits, we tailor every piece to your exact specifications.\n\nCreative Fashion Design: Our design team stays ahead of trends while honoring timeless Nigerian fashion traditions. We create unique pieces that blend contemporary style with cultural authenticity.\n\nFabric Selection & Consultation: Not sure what works best? We guide you through our extensive fabric collection and offer expert advice on colors, patterns, and materials that suit your needs and budget.\n\nAlterations & Repairs: Perfect fit matters. We provide professional alteration services to ensure your garments fit flawlessly.\n\nEvent & Bridal Fashion: Make your special day unforgettable with our exclusive event wear and bridal fashion services. We create stunning outfits for weddings, engagements, and all life's important moments.",
+      "imagePrompt": "Collage showcasing Nigerian fashion services: elegant custom-made traditional attire on display, bride in beautiful Nigerian wedding dress, designer consulting with client over fabric samples, tailor making precise alterations, vibrant African prints and contemporary fabrics, professional fashion studio setting in Osogbo, bright and organized workspace",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to elevate your wardrobe? Visit us at our Osogbo location or reach out today. We're here to bring your fashion vision to life.\n\nLocation: Adeen former filling station powerline, Osogbo, Osun State, Nigeria\n\nCall or WhatsApp: 0805 097 3325\n\nWe welcome walk-ins and appointments. Our team is ready to discuss your fashion needs and provide personalized consultations. Whether you're planning for a special event or simply want to refresh your style, Cha Cha Investment, CC Enterprise is your trusted fashion partner in Osogbo.",
+      "imagePrompt": "Welcoming Nigerian fashion boutique storefront in Osogbo, clear signage visible, inviting entrance with fabric displays in windows, customers entering shop, Osun State street scene, professional exterior photography, daytime lighting, authentic Nigerian commercial district atmosphere, accessible and friendly business appearance",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0805 097 3325",
+    "email": "",
+    "address": "Adeen former filling station powerline, Osogbo, Osun State, Nigeria",
+    "whatsapp": "https://wa.me/2348050973325"
+  }
+}
